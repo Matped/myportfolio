@@ -74,7 +74,7 @@ WIP
 
 ## Learning plan
 
-**These learning plans span over two weeks and describe what I want to achieve, how and assesment of successes and problems.
+**These learning plans span over two weeks and describe what I want to achieve, how and assesment of successes and problems.**
 ```
 
 ## Learning plan of 4. sem. project.
