@@ -1,5 +1,5 @@
-### About me
-```markdown
+### About me.
+
 Matias Møller Pedersen.
 - 24 years old.
 - Studying computer science.
@@ -7,4 +7,4 @@ Matias Møller Pedersen.
 - Interested in many different areas of IT and technology.
 - I like to play video games in my spare time, especially with friends in teamwork based games.
 - I like to excercise with different team sports, like Floorball.
-```
+
