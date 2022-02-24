@@ -75,7 +75,6 @@ WIP
 ## Learning plan
 
 **These learning plans span over two weeks and describe what I want to achieve, how and assesment of successes and problems.**
-```
 
 ## Learning plan of 4. sem. project.
 
@@ -86,5 +85,4 @@ WIP
 | App Dev with Flutter and Dart | Learn the basics of Flutter and Dart. Set up initial features and layout of the app. Setup Github to make sure the project is comaptible on both computer and laptop. | a) Setup of Flutter and Dart Framework. b) Setup Github repository. c) Fix initial errors so the project is compatible on both laptop and desktop pc. d) Develop initial layout and some features. | Use offical Flutter and Dart documentation along with Stackoverflow to solve any initial problems. | Overall a good start with a decent grasp of Flutter and Dart. I learned that by using official documentation in text form, I learn a lot better and also focus on making my own solutions compared to videos where I end up copying a lot and not learn very much. | 
 | IoT with Raspberry Pi | Acquire Raspberry Pi unit along with any neccesary components. Structure how it should be setup and what framework I want to use. Find good learning sources for the framework. | a) Do initial work with Raspberry Pi with trial and error method. b) Secure with second hand sources, that the documentation is up to date and good. c) Make sure the documentation fits the solution I want to make. | Make sure from secondhand sources the documentation is up to date and good. Use trial and error to set up the unit. | I chose the framework Flask which I found out was very popular and well documented. As mentioned above, I will specifically go for text sources, but I learned some videos are neccesary to visualize how a Raspberry Pi unit works. |
 
-```
 
