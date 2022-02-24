@@ -1,4 +1,6 @@
-# About me.
+# Portfolio
+
+## About me:
 
 Matias Møller Pedersen.
 - 24 years old.
@@ -9,7 +11,7 @@ Matias Møller Pedersen.
 - I like to excercise with different team sports, like Floorball.
 
 
-## About the project
+## About the project:
 
 ```
 
@@ -41,7 +43,7 @@ WIP
 
 ```
 
-## Weekly Logbook
+## Weekly Logbook:
 
 **This logbook spans over one week and are short highligts of what I have done with the project.**
 
@@ -72,7 +74,7 @@ WIP
 ```
 
 
-## Learning plan
+## Learning plan:
 
 **These learning plans span over two weeks and describe what I want to achieve, how and assesment of successes and problems.**
 
