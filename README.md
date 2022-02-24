@@ -9,6 +9,37 @@ Matias Møller Pedersen.
 - I like to excercise with different team sports, like Floorball.
 
 
+## About the project
+
+```
+
+# The idea:
+An IoT unit that can connect to streaming services and with an API built in to let users set songs in a queue. Main target are bars and other social events.
+
+# The target group of the product:
+The bar owners will set up a raspberry pi unit and the customers will be able to put songs in a playlist. The costumers will pay a small sum of money for song tokens, where a percentage goes to the developers, bar owners and for the rights to stream the music. Can be expanded to private people.
+
+# Projects for the idea:
+- An app for IOS and Android.
+- Webserver with API that users can interact with.
+- Webserver that authenticates users.
+- General IT security.
+
+```
+
+```
+# Project management:
+
+WIP
+
+```
+
+```
+Individual components in the system:
+
+WIP
+
+```
 
 ## Weekly Logbook
 
@@ -54,5 +85,6 @@ Matias Møller Pedersen.
 | :------- | :---- | :-------------------- | :--------- | :---------- |
 | App Dev with Flutter and Dart | Learn the basics of Flutter and Dart. Set up initial features and layout of the app. Setup Github to make sure the project is comaptible on both computer and laptop. | a) Setup of Flutter and Dart Framework. b) Setup Github repository. c) Fix initial errors so the project is compatible on both laptop and desktop pc. d) Develop initial layout and some features. | Use offical Flutter and Dart documentation along with Stackoverflow to solve any initial problems. | Overall a good start with a decent grasp of Flutter and Dart. I learned that by using official documentation in text form, I learn a lot better and also focus on making my own solutions compared to videos where I end up copying a lot and not learn very much. | 
 | IoT with Raspberry Pi | Acquire Raspberry Pi unit along with any neccesary components. Structure how it should be setup and what framework I want to use. Find good learning sources for the framework. | a) Do initial work with Raspberry Pi with trial and error method. b) Secure with second hand sources, that the documentation is up to date and good. c) Make sure the documentation fits the solution I want to make. | Make sure from secondhand sources the documentation is up to date and good. Use trial and error to set up the unit. | I chose the framework Flask which I found out was very popular and well documented. As mentioned above, I will specifically go for text sources, but I learned some videos are neccesary to visualize how a Raspberry Pi unit works. |
+
 
 
