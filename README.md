@@ -88,6 +88,8 @@ WIP
 | IoT with Raspberry Pi. | Acquire Raspberry Pi unit along with any neccesary components. Structure how it should be setup and what framework I want to use. Find good learning sources for the framework. | a) Do initial work with Raspberry Pi with trial and error method. b) Secure with second hand sources, that the documentation is up to date and good. c) Make sure the documentation fits the solution I want to make. | Make sure from secondhand sources the documentation is up to date and good. Use trial and error to set up the unit. | I chose the framework Flask which I found out was very popular and well documented. As mentioned above, I will specifically go for text sources, but I learned some videos are neccesary to visualize how a Raspberry Pi unit works. |
 
 
+### 21/02/2022 - 04/03/2022
+
 | Subject | Goal | Technigues and tools | Criterias | Evaluation |
 | :------- | :---- | :-------------------- | :--------- | :---------- |
 | App Dev with Flutter and Dart. | Restructuring of project with MVVM architecture, future development of features and getting the project ready for API inputs from Raspberry Pi. | a) Restructure for MVVM. b) Implementation of more features. c) DCD creation. | Use offical Flutter and Dart documentation along with Stackoverflow to solve any initial problems. Trial and error method. | The project is becoming increasingly harder, but I am learning a lot. Trying to limit having too many sources of information. As a team, we are making sure to create artifacts we all can benefit from, for example a DCD in unison with others in my team who have IoT and App Dev. |
