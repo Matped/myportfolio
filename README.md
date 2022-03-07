@@ -50,13 +50,13 @@ WIP
 ```
 ## Timeline of 4. sem. project.
 
-# Week 1: 31/1/2022 - 4/2/2022
+# Week 1: 31/01/2022 - 4/02/2022
 - Project beginnings with requirements gathering, interests analysis and paperprototype.
 - Team creation with Belbin methods, making of team rules and the goal of the project.
 - Portfolio beginnings.
 
 
-# Week 2: 7/2/2022 - 11/2/2022
+# Week 2: 7/02/2022 - 11/02/2022
 - Guild meeting with app development. Great sparring and ideas.
 - Product meeting intro.
 - Flutter and Dart initialization.
@@ -65,12 +65,17 @@ WIP
 - Raspberry Pi unit acquired.
 
 
-# Week 3: 14/2/2022 - 18/2/2022
+# Week 3: 14/02/2022 - 18/02/2022
 - More flutter feature implementation.
   - Added an infinite scrolling list with easy API iplementation for future backend development.
 - Raspberry Pi components acquired and initilization can begin.
 - Meeting with product owner.
  - Showcase minimal viable product and ideas were noted.
+ 
+ # Week 4: 21/02/2022 - 25/02/2022
+ 
+ 
+ 
 ```
 
 
