@@ -73,9 +73,11 @@ WIP
  - Showcase minimal viable product and ideas were noted.
  
  # Week 4: 21/02/2022 - 25/02/2022
+ - Restructuring app to MVVM
+ - Wireless setup of Raspberry Pi via laptop.
  
- 
- 
+ # Week 5: 28/02/2022 - 04/03/2022
+ - Motivation and energy dropped, not done much besides some more MVVM structuring etc.
 ```
 
 
