@@ -72,7 +72,18 @@ The bar owners will set up a raspberry pi unit and the customers will be able to
  - Raspberry Pi control setup with VNC software.
  - Setup of python and spyder IDE in raspberry pi.
  - API and crud methods building.
- - Implementation of spotipy to find songs, playlists and artists in the spotify API.
+ 
+ # Week 7: 14/03/2022 - 18/03/2022
+ - Connection to Spotify API, structuring for neccesary data.
+ - CRUD methods.
+ 
+ # Week 8: 21/03/2022 - 25/03/2022
+ - Connection from app to RaspberryPi unit.
+ - Setup of UI in the app.
+ 
+ # Week 9: 28/03/2022 - 1/04/2022
+ -
+ 
 ```
 
 
