@@ -24,9 +24,16 @@
 | IoT with Raspberry Pi. | Continuation of Raspberry Pi unit and Flask framework setup. Creation of a DCD. | a) Do initial work with Raspberry Pi with trial and error method. b) Secure with second hand sources, that the documentation is up to date and good. c) Make sure the documentation fits the solution I want to make. | Use documentation, be able to connect via VNC software from my laptop. | Been a rough two weeks because of problems with the Raspberry Pi |
 
 
-### 07/02/2022 - 18/03/2022
+### 07/03/2022 - 18/03/2022
 
 | Subject | Goal | Technigues and tools | Criterias | Evaluation |
 | :------- | :---- | :-------------------- | :--------- | :---------- |
-| App Dev with Flutter and Dart. | Set up of API connection to Raspberry Pi unit | a) Testing of Raspberry Pi API to ensure it works. b) Implementation of API in Flutter | Showcase of songs in a list. |  |
-| IoT with Raspberry Pi. | Fixing small errors in Python, such as import. Further learning of the Python language. Be able to find the users playlist and individual songs. | a) Continue on CRUD methods. b) Via documentation, learn the Python setup and syntax better. | Be able to import files and retrieve song data from API |  |
+| App Dev with Flutter and Dart. | Set up of API connection to Raspberry Pi unit | a) Testing of Raspberry Pi API to ensure it works. b) Implementation of API in Flutter | Showcase of songs in a list. | During this week, I realized that everything takes more time, than what I estimate. I need to break down my goals as much as possible, otherwise I spend too much time thinking about how to meet the goal in th best way possible instead of doing practical work. |
+| IoT with Raspberry Pi. | Fixing small errors in Python, such as import. Further learning of the Python language. Be able to find the users playlist and individual songs. | a) Continue on CRUD methods. b) Via documentation, learn the Python setup and syntax better. | Be able to import files and retrieve song data from API | In general I have done the same evaluations as in app development. |
+
+### 21/03/2022 - 01/04/2022
+
+| Subject | Goal | Technigues and tools | Criterias | Evaluation |
+| :------- | :---- | :-------------------- | :--------- | :---------- |
+| App Dev with Flutter and Dart. | Setup of UI, so the song currently being played can be seen. Be able to search for a song. | a) Neccesary visual UI to be created. b) Input data in the correct places. | Be able to send a search query to the RaspberryPi. Be able to see the song currently being played. UI structure in place. |  |
+| IoT with Raspberry Pi. | Specialization of API, so only the neccesary data from Spotify is sent to the app. | a) Understand how Spotify structures their json data. b) Test data to see if it is correct. c) Use the Spotify developer dashboard to double check. | Be able to send the neccesary data to the app. |  |
