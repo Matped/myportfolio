@@ -6,6 +6,11 @@
 ## Spotify API usage.
 - One file that contains the playlist and a class that handles all the essential methods neccesary to: Append and delete within the playlist, acquiring data about songs and the song currently being played.
 
+[Using Spotify API](https://matped.github.io/myportfolio/spotifyapi/)
+[Using Megahard API](https://matped.github.io/myportfolio/megahardapi/)
+[Using API calls in flutter and features using this](https://matped.github.io/myportfolio/individualcomponents/)
+[Mobile application UI](https://matped.github.io/myportfolio/individualcomponents/)
+
 ## Spotify user credentials
 - The user credentials are supposed to be that of the spotify user playing the music, example is the bar owners spotify account. The scope is what determines which actions are authorized, like putting a song in queue or reading the contents of their playlists.
 ![image](https://user-images.githubusercontent.com/59559634/165117830-a2dadc04-c90c-4bb9-bee0-e4d5dfef8872.png)
