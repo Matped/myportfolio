@@ -17,4 +17,12 @@
 - The method has several important parameters that are required. 'q' is the input string acquired from the app, example: 'Kim Larsen - Midt om natten'. Limit is the maximum amount of songs it will return. Offset is where the indexing will start. Type is the type of information returned, in this case it is a track. Market is which market it will choose from.
 ![image](https://user-images.githubusercontent.com/59559634/165119627-2a1ca4f1-bbbf-4489-af12-5e0250e4bdf6.png)
 
+- The RaspberryPi handles the queued songs as a playlist and has an internal variable set as a list with dictionaries inside it, each dictionary is a seperate song containing the name of the artist and the song. At the moment in the picture, it is populated with dummy data for testing purposes.
+![image](https://user-images.githubusercontent.com/59559634/165120159-e8ba9454-b0d7-460d-bbf6-1bacde002f3f.png)
+
+- The next two methods within the TrackGrabber class directly works with the internal playlist variable and either removes or appends a song. These methods do not directly use the Spotify API, however they use the data that is acquired when the app is being used to select a song.
+![image](https://user-images.githubusercontent.com/59559634/165120427-ea21a4bf-b04e-4da6-9e1b-45e4657f8ba7.png)
+
+
+
 
