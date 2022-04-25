@@ -5,7 +5,7 @@
 ## About me:
 
 Matias Møller Pedersen.
-- 24 years old.
+- 25 years old.
 - Studying computer science.
 - Love to create and develop ideas, especially in motivated teams with the option of a lot of sparring and help.
 - Interested in many different areas of IT and technology.
@@ -82,7 +82,7 @@ The bar owners will set up a raspberry pi unit and the customers will be able to
  - Setup of UI in the app.
  
  # Week 9: 28/03/2022 - 1/04/2022
- -
+ - 
  
 ```
 
