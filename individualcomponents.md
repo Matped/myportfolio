@@ -27,7 +27,7 @@
 
 
 ## The internal playlist of the RaspberryPi.
-- The RaspberryPi handles the queued songs as a playlist and has an internal variable set as a list with dictionaries inside it, each dictionary is a seperate song containing the name of the artist and the song. At the moment in the picture, it is populated with dummy data for testing purposes.
+- The RaspberryPi handles the queued songs as a playlist and has an internal variable set as a list with dictionaries inside it, each dictionary is a seperate song containing the name of the artist and the song.
 ![image](https://user-images.githubusercontent.com/59559634/165120159-e8ba9454-b0d7-460d-bbf6-1bacde002f3f.png)
 
 
