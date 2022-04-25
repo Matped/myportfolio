@@ -14,7 +14,11 @@
 ![image](https://user-images.githubusercontent.com/59559634/165118488-6d04604f-64e3-4cd7-a9a3-9d7123fdc4d3.png)
 
 - One of the most important methods for this project is the abillity to search for a track.
-- The method has several important parameters that are required. 'q' is the input string acquired from the app, example: 'Kim Larsen - Midt om natten'. Limit is the maximum amount of songs it will return. Offset is where the indexing will start. Type is the type of information returned, in this case it is a track. Market is which market it will choose from.
+- The method has several important parameters that are required. 'q' is the input string acquired from the app, example: 'Kim Larsen - Midt om natten'.
+- 'limit' is the maximum amount of songs it will return.
+- 'offset' is where the indexing will start.
+- 'type' is the type of information returned, in this case it is a track.
+- 'market' is which market it will choose from.
 ![image](https://user-images.githubusercontent.com/59559634/165119627-2a1ca4f1-bbbf-4489-af12-5e0250e4bdf6.png)
 
 - The RaspberryPi handles the queued songs as a playlist and has an internal variable set as a list with dictionaries inside it, each dictionary is a seperate song containing the name of the artist and the song. At the moment in the picture, it is populated with dummy data for testing purposes.
