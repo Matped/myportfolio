@@ -16,7 +16,7 @@
 
 ## Get playlist method.
 - Gets the playlist and returns the playlist variable as json via jsonify method.
-![image](https://user-images.githubusercontent.com/59559634/165131320-c3a45bb9-19e7-4e0d-83f3-11eb01f9e3e1.png)
+![image](https://user-images.githubusercontent.com/59559634/165131728-e4abe000-e4c3-4da7-82ff-e8b91ba7d857.png)
 
 ## Queue song method.
 - Gets the song id and uses SpotifyTrackGrabber method to set the track in queue.
