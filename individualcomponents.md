@@ -3,8 +3,8 @@
 [About](https://matped.github.io/myportfolio/) - [Project Management](https://matped.github.io/myportfolio/projectmanagement/) - [Individual Components](https://matped.github.io/myportfolio/individualcomponents/) - [Learning Plan](https://matped.github.io/myportfolio/learningplan/)
 
 
-# Spotify API usage with Python in PyCharm in RaspberryPi.
-
+## Spotify API usage.
+- One file that contains the playlist and a class that handles all the essential methods neccesary to: Append and delete within the playlist, acquiring data about songs and the song currently being played.
 
 ## Spotify user credentials
 - The user credentials are supposed to be that of the spotify user playing the music, example is the bar owners spotify account. The scope is what determines which actions are authorized, like putting a song in queue or reading the contents of their playlists.
