@@ -20,7 +20,7 @@
 ## UI in Flutter with Dart.
 - Overview of some UI features in the app.
 
-[Flutter and Dart UI](https://matped.github.io/myportfolio/individualcomponents/)
+[Flutter and Dart UI](https://matped.github.io/myportfolio/uifeatures/)
 
 
 
