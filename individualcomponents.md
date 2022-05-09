@@ -4,12 +4,11 @@
 
 
 ## Spotify API.
-- One file that contains the playlist and a class that handles all the essential methods neccesary to: Append and delete within the playlist, acquiring data about songs and the song currently being played.
-
+- Contains methods to use the Spotify API to get relevant song data.
 [Using Spotify API](https://matped.github.io/myportfolio/spotifyapi/)
 
 ## Megahard API.
-- How the neccesary data is transferred to and from the mobile application.
+- How the neccesary data is transferred to and from the mobile application and the Firebase cloud database.
 
 [Using Megahard API](https://matped.github.io/myportfolio/megahardapi/)
 
