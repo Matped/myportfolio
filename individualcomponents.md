@@ -13,12 +13,12 @@
 [Using Megahard API](https://matped.github.io/myportfolio/megahardapi/)
 
 ## Flutter API calls and features.
-- How Flutter does API calls and an overview of the features.
+- How API calls are handled and incoporated into state management.
 
-[Using API calls in flutter and features using this](https://matped.github.io/myportfolio/individualcomponents/)
+[Using API calls in flutter and state management](https://matped.github.io/myportfolio/flutterapi/)
 
 ## UI in Flutter with Dart.
-- How to use create UI elements in Flutter.
+- Overview of some UI features in the app.
 
 [Flutter and Dart UI](https://matped.github.io/myportfolio/individualcomponents/)
 
