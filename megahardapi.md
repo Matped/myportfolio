@@ -12,7 +12,7 @@
 
 ## Updating the playlist methods.
 - Two methods, one to append and one to remove based on the interactions within the app.
-![image](https://user-images.githubusercontent.com/59559634/165131138-167ad783-bf1b-43af-abcf-7d5f3ed0dcbc.png)
+![image](https://user-images.githubusercontent.com/59559634/167411832-0fab36c0-2b2a-47fb-8ce0-d1b65cb2e019.png)
 
 ## Get playlist method.
 - Gets the playlist and returns the playlist variable as json via jsonify method.
