@@ -13,3 +13,5 @@ This has all the data stored such as amount of users using the app currently, th
 
 ![image](https://user-images.githubusercontent.com/59559634/167661290-a672cb70-ff3a-4a09-a070-ce3d1233cd56.png)
 
+# Acquired skills during the project.
+
