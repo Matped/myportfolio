@@ -1,4 +1,4 @@
-# About the project
+# About the project.
 
 In essence, the idea is to replace jukeboxes in bars and venues with a mobile application and a RaspberryPi device. The users will be able to purchase tokens to be able to put songs in queue.
 
@@ -15,3 +15,16 @@ This has all the data stored such as amount of users using the app currently, th
 
 # Acquired skills during the project.
 
+## Mobile application in Flutter with the language Dart.
+- Good understanding of Flutter and Dart.
+- Handling of UI elements.
+- State management in applications.
+- Data handling via API's.
+- Structuring and usage of code conventions.
+
+## RaspberryPi device.
+- Good understanding of the Python language.
+- Set up and usage of a RaspberryPi device.
+- API management.
+- Usage of sensors.
+- Setup of a cloud based database and handling of data.
