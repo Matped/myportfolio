@@ -1,6 +1,6 @@
 # About the project
 
-In essence, the idea is to replace jukeboxes in bars and venues with a mobile application and a RaspberryPi device.
+In essence, the idea is to replace jukeboxes in bars and venues with a mobile application and a RaspberryPi device. The users will be able to purchase tokens to be able to put songs in queue.
 
 ## Mobile application and admin panel.
 The app handles all user inputs such as searching for a song, putting a song in queue and so forth. The app also sends data to the Firebase cloud database such as how many users in the given bar are using the app. The admin panel is designed for the bar owners and can handle rules like what genres are allowed to be played and in general the same as the app, but for the bar owners. Both these work together with the RaspberryPi device by sending http requests and receiving responses.
