@@ -35,5 +35,33 @@
 
 | Subject | Goal | Technigues and tools | Criterias | Evaluation |
 | :------- | :---- | :-------------------- | :--------- | :---------- |
-| App Dev with Flutter and Dart. | Setup of UI, so the song currently being played can be seen. Be able to search for a song. | a) Neccesary visual UI to be created. b) Input data in the correct places. | Be able to send a search query to the RaspberryPi. Be able to see the song currently being played. UI structure in place. |  |
-| IoT with Raspberry Pi. | Specialization of API, so only the neccesary data from Spotify is sent to the app. | a) Understand how Spotify structures their json data. b) Test data to see if it is correct. c) Use the Spotify developer dashboard to double check. | Be able to send the neccesary data to the app. |  |
+| App Dev with Flutter and Dart. | Setup of UI, so the song currently being played can be seen. Be able to search for a song. | a) Neccesary visual UI to be created. b) Input data in the correct places. | Be able to send a search query to the RaspberryPi. Be able to see the song currently being played. UI structure in place. | All the goals were completed with some time to spare. It's been becoming increasingly easier to implement things since I have restructured my approach. I realized I needed to reduce the clutter, which I did and helped me keeping track of what I need to do. |
+| IoT with Raspberry Pi. | Specialization of API, so only the neccesary data from Spotify is sent to the app. | a) Understand how Spotify structures their json data. b) Test data to see if it is correct. c) Use the Spotify developer dashboard to double check. | Be able to send the neccesary data to the app. | I had some minor problems, but they were easy to fix, as Spotify is really good at telling you exactly what is wrong. I wasn't using the CRUD methods correctly and I also realized I needed Spotify Premium to use all their API features. |
+
+### 04/04/2022 - 15/04/2022
+
+| Subject | Goal | Technigues and tools | Criterias | Evaluation |
+| :------- | :---- | :-------------------- | :--------- | :---------- |
+| App Dev with Flutter and Dart. | | | | |
+| IoT with Raspberry Pi. | | | | |
+
+### 18/04/2022 - 29/04/2022
+
+| Subject | Goal | Technigues and tools | Criterias | Evaluation |
+| :------- | :---- | :-------------------- | :--------- | :---------- |
+| App Dev with Flutter and Dart. | | | | |
+| IoT with Raspberry Pi. | | | | |
+
+### 02/05/2022 - 13/05/2022
+
+| Subject | Goal | Technigues and tools | Criterias | Evaluation |
+| :------- | :---- | :-------------------- | :--------- | :---------- |
+| App Dev with Flutter and Dart. | | | | |
+| IoT with Raspberry Pi. | | | | |
+
+### 16/05/2022 - 27/05/2022
+
+| Subject | Goal | Technigues and tools | Criterias | Evaluation |
+| :------- | :---- | :-------------------- | :--------- | :---------- |
+| App Dev with Flutter and Dart. | | | | |
+| IoT with Raspberry Pi. | | | | |
