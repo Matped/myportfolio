@@ -42,14 +42,14 @@
 
 | Subject | Goal | Technigues and tools | Criterias | Evaluation |
 | :------- | :---- | :-------------------- | :--------- | :---------- |
-| App Dev with Flutter and Dart. | | | | |
-| IoT with Raspberry Pi. | | | | |
+| App Dev with Flutter and Dart. | State management, so the UI updates with new data. | Flutter and Dart library using StreamProvider | Correct data needs to be displayed during searching for a song and when a new song is played. | Took a while to wrap my head around state management, but it was surprisingly easy with the StreamProvider library. |
+| IoT with Raspberry Pi. | Setup of cloud based database and methods to use it. | Use Firebase documentation. | Be able to append, delete and manipulate data in the database. | Firebase documentation is extremely good, so it was quite easy to implement. Python is a really good programming language and both setup of methods for the database and the actual setup went smooth. |
 
 ### 18/04/2022 - 29/04/2022
 
 | Subject | Goal | Technigues and tools | Criterias | Evaluation |
 | :------- | :---- | :-------------------- | :--------- | :---------- |
-| App Dev with Flutter and Dart. | | | | |
+| App Dev with Flutter and Dart. | Connection to the cloud database so the app can send data such as how many users are using the app right now. | Use both Flutter and Firebase documentation. | Be able to send data to the database and make sure the data matches. | |
 | IoT with Raspberry Pi. | | | | |
 
 ### 02/05/2022 - 13/05/2022
