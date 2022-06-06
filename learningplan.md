@@ -63,5 +63,5 @@
 
 | Subject | Goal | Technigues and tools | Criterias | Evaluation |
 | :------- | :---- | :-------------------- | :--------- | :---------- |
-| App Dev with Flutter and Dart. | | | | |
-| IoT with Raspberry Pi. | | | | |
+| App Dev with Flutter and Dart. | Exam preparation. Tests of entire program. Fix of minor issues. | Refer to project description and check if the program does as intended. | App doing as described in the project and not being out of scope. | Having a structured scope and description of tasks is important. I have learned that not having enough functionality usually wont be a problem, but getting out of scope is easy. In the end it adds more unneccesary work. |
+| IoT with Raspberry Pi. | Exam prepartion. Tests of entire program in conjunction with app. | Refer to project description and check if program does as intended. | Both HTTP requests and responses going through the pipeline fully, return of proper errors. | I have learned doing tests often is very important. At this stage a lot of unexpected errors can happen and testing a bunch of things at once can quickly make it confusing. |
