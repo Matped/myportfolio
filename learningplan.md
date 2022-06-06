@@ -4,17 +4,17 @@
 
 ## Resources:
 # App development:
-https://docs.flutter.dev/
-https://docs.flutter.dev/cookbook
-https://firebase.google.com/docs
+- https://docs.flutter.dev/
+- https://docs.flutter.dev/cookbook
+- https://firebase.google.com/docs
 
 # IoT:
-https://docs.python.org/3/
-https://flask.palletsprojects.com/en/2.1.x/
-https://spotipy.readthedocs.io/en/2.19.0/
-https://github.com/plamere/spotipy/blob/master/spotipy/client.py#L1396
-https://developer.spotify.com/documentation/
-https://developer.spotify.com/console/
+- https://docs.python.org/3/
+- https://flask.palletsprojects.com/en/2.1.x/
+- https://spotipy.readthedocs.io/en/2.19.0/
+- https://github.com/plamere/spotipy/blob/master/spotipy/client.py#L1396
+- https://developer.spotify.com/documentation/
+- https://developer.spotify.com/console/
 
 ## Learning plan:
 
