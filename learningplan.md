@@ -2,6 +2,20 @@
 
 [About](https://matped.github.io/myportfolio/) - [Project Management](https://matped.github.io/myportfolio/projectmanagement/) - [Individual Components](https://matped.github.io/myportfolio/individualcomponents/) - [Learning Plan](https://matped.github.io/myportfolio/learningplan/)
 
+## Resources:
+# App development:
+https://docs.flutter.dev/
+https://docs.flutter.dev/cookbook
+https://firebase.google.com/docs
+
+# IoT:
+https://docs.python.org/3/
+https://flask.palletsprojects.com/en/2.1.x/
+https://spotipy.readthedocs.io/en/2.19.0/
+https://github.com/plamere/spotipy/blob/master/spotipy/client.py#L1396
+https://developer.spotify.com/documentation/
+https://developer.spotify.com/console/
+
 ## Learning plan:
 
 **These learning plans span over two weeks and describe what I want to achieve, how and assesment of successes and problems.**
