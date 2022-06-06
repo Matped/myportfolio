@@ -9,6 +9,7 @@
 - https://firebase.google.com/docs
 
 # IoT:
+- https://www.raspberrypi.com/documentation/
 - https://docs.python.org/3/
 - https://flask.palletsprojects.com/en/2.1.x/
 - https://spotipy.readthedocs.io/en/2.19.0/
