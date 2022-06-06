@@ -49,15 +49,15 @@
 
 | Subject | Goal | Technigues and tools | Criterias | Evaluation |
 | :------- | :---- | :-------------------- | :--------- | :---------- |
-| App Dev with Flutter and Dart. | Connection to the cloud database so the app can send data such as how many users are using the app right now. | Use both Flutter and Firebase documentation. | Be able to send data to the database and make sure the data matches. | |
-| IoT with Raspberry Pi. | | | | |
+| App Dev with Flutter and Dart. | Connection to the cloud database so the app can send data such as how many users are using the app right now. | Use both Flutter and Firebase documentation. | Be able to send data to the database and make sure the data matches. | I have previous methods I could copy and refactor which made it a relatively fast implementation. |
+| IoT with Raspberry Pi. | Further development of API functionalities so the database is updated correctly as a user connects to a specific bar. | Reuse and refactor previous methods. | Be able to correctly send requests to the database. | Relatively easy implementation as most of the groundwork has been implemented previously. |
 
 ### 02/05/2022 - 13/05/2022
 
 | Subject | Goal | Technigues and tools | Criterias | Evaluation |
 | :------- | :---- | :-------------------- | :--------- | :---------- |
-| App Dev with Flutter and Dart. | | | | |
-| IoT with Raspberry Pi. | | | | |
+| App Dev with Flutter and Dart. | Cleanup and refactoring of code to make it simpler and cleaner. | Use various programming princlpes. | No recurrence of basically the same code, but with different parameters. | It is important to keep the project and code clean and within scope. It makes it a lot easier to go back to old methods and still be able to understand them. Furthermore it helps to stay up to track of what has been done to the project. |
+| IoT with Raspberry Pi. | Cleanup and refactoring of code. | Go back and reevaluate the project description and diagrams to see if certain methods and other code need to be refactored, removed or moved. | Make sure all methods are used properly via tests. Compare files with diagrams and project description to see if the current structure of the project makes sense. | I have realized this is a very important thing to do often. This took a lot of time because the project has moved fast and not doing it regularly causes issues, such as not being completely sure if moving code and refactoring could potentially break the program. Doing this often compartmentalizes issues and you don't have to go back to old code and change the entire tree of code. |
 
 ### 16/05/2022 - 27/05/2022
 
